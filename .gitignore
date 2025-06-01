@@ -1,0 +1,14 @@
+.py[cod]
+
+.env
+
+venv/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore system/IDE files
+.DS_Store
+.idea/
+.vscode/
